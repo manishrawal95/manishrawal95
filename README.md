@@ -57,5 +57,6 @@ I'm interested in AI products where the core value proposition is judgment, not 
 
 ---
 
-*Open to PM roles at AI-first companies. Best contact: [roleradar.co](https://roleradar.co)*
+*Open to PM roles at AI-first companies. Best contact: [roleradar.co](https://roleradar.xyz)*
+
 
