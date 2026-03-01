@@ -1,4 +1,4 @@
-# Manish Rawal — AI Product Manager
+# Hi, I'm Manish
 
 I build AI-powered products and use data to make better decisions about what to build next.
 
@@ -58,3 +58,4 @@ I'm interested in AI products where the core value proposition is judgment, not 
 ---
 
 *Open to PM roles at AI-first companies. Best contact: [roleradar.co](https://roleradar.co)*
+
