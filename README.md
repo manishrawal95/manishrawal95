@@ -8,7 +8,7 @@ Currently: **RoleRadar** — an AI job search advisor that replaces keyword aler
 
 ## What I'm Building
 
-### [RoleRadar](https://github.com/manishrawal95/RoleRadar) · [roleradar.co](https://roleradar.co)
+### [RoleRadar](https://github.com/manishrawal95/RoleRadar) · [roleradar.co](https://roleradar.co) 
 
 Job searching is a high-stakes, time-consuming process where the tools haven't kept up with what AI can do. RoleRadar is my answer to that.
 
@@ -58,5 +58,6 @@ I'm interested in AI products where the core value proposition is judgment, not 
 ---
 
 *Open to PM roles at AI-first companies. Best contact: [roleradar.co](https://roleradar.xyz)*
+
 
 
