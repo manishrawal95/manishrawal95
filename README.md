@@ -16,11 +16,15 @@ That's the problem I find interesting.
 
 ## Work
 
-**Agentic systems**
+**RoleRadar** — AI job search advisor | [roleradar.xyz](https://roleradar.xyz) | [case study](https://mrawal.com/projects/roleradar)
 
-[job-market-intelligence](https://github.com/manishrawal95/job-market-intelligence) scrapes 5 ATS platforms on a cron schedule, deduplicates listings, and feeds an agent that curates picks based on your profile and updates its memory from your feedback.
+Aggregates 600K+ listings from 5 ATS platforms (Greenhouse, Lever, Ashby, Workday, SmartRecruiters). Agent reads JDs and learns preferences over time — curates 5–15 picks instead of 200 keyword matches. Live product metrics: visitor engagement, search-to-apply conversion, filter usage patterns.
 
-[linkedin_planner](https://github.com/manishrawal95/linkedin_planner) logs posts, runs AI analysis to find what performs, drafts new content from top patterns, and has a publishing calendar.
+Foundation: [job-market-intelligence](https://github.com/manishrawal95/job-market-intelligence) (scraper + dedup pipeline) · [linkedin_planner](https://github.com/manishrawal95/linkedin_planner) (content analysis + drafting)
+
+**Full-stack / Open source**
+
+[nextjs-booking-system](https://github.com/manishrawal95/nextjs-booking-system) — Production booking system: Google Calendar integration, email confirmations + reminders, timezone-aware slot generation, 62 tests. [Live](https://mrawal.com/book)
 
 **Data analysis**
 
