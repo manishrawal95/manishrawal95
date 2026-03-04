@@ -16,15 +16,15 @@ That's the problem I find interesting.
 
 ## Work
 
-**RoleRadar** — AI job search advisor | [roleradar.xyz](https://roleradar.xyz) | [case study](https://mrawal.com/projects/roleradar)
+**RoleRadar** — Job Discovery Product. Aggregates 600K+ listings from 9K+ companies. | [roleradar.xyz](https://roleradar.xyz) | [case study](https://mrawal.com/projects/roleradar)
 
-Aggregates 600K+ listings from 5 ATS platforms (Greenhouse, Lever, Ashby, Workday, SmartRecruiters). Agent reads JDs and learns preferences over time — curates 5–15 picks instead of 200 keyword matches. Live product metrics: visitor engagement, search-to-apply conversion, filter usage patterns.
-
-Foundation: [job-market-intelligence](https://github.com/manishrawal95/job-market-intelligence) (scraper + dedup pipeline) · [linkedin_planner](https://github.com/manishrawal95/linkedin_planner) (content analysis + drafting)
+Foundation: [Job Market Intelligence](https://github.com/manishrawal95/job-market-intelligence) (scraper + dedup pipeline)
 
 **Full-stack / Open source**
 
-[nextjs-booking-system](https://github.com/manishrawal95/nextjs-booking-system) — Production booking system: Google Calendar integration, email confirmations + reminders, timezone-aware slot generation, 62 tests. [Live](https://mrawal.com/book)
+[Linkedin Planner](https://github.com/manishrawal95/linkedin_planner): (content analysis + drafting)
+
+[Calendar Booking System](https://github.com/manishrawal95/nextjs-booking-system): Google Calendar integration, email confirmations + reminders, timezone-aware slot generation, 62 tests. [Live](https://mrawal.com/book)
 
 **Data analysis**
 
@@ -42,5 +42,3 @@ Foundation: [job-market-intelligence](https://github.com/manishrawal95/job-marke
 [ml-algorithms-r](https://github.com/manishrawal95/ml-algorithms-r) — linear regression through k-means in R. Babson coursework.
 
 ---
-
-[roleradar.xyz](https://roleradar.xyz)
