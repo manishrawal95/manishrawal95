@@ -24,7 +24,7 @@ Foundation: [Job Market Intelligence](https://github.com/manishrawal95/job-marke
 
 [Linkedin Planner](https://github.com/manishrawal95/linkedin_planner): (content analysis + drafting)
 
-[Calendar Booking System](https://github.com/manishrawal95/nextjs-booking-system): Google Calendar integration, email confirmations + reminders, timezone-aware slot generation, 62 tests. [Live](https://mrawal.com/book)
+[Calendar Booking System](https://github.com/manishrawal95/calendar-booking-system): Google Calendar integration, email confirmations + reminders, timezone-aware slot generation, 62 tests. [Live](https://mrawal.com/book)
 
 **Data analysis**
 
