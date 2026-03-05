@@ -40,6 +40,6 @@ That's the problem I find interesting.
 
 
 
-**Building what's next in AI Agents, RAG, or LLMs? I'd love to chat and share input.**
+**Building what's next in AI Agents? I'd love to chat and share input.**
 
 ---
