@@ -2,13 +2,13 @@
 
 AI product manager. I build tools I'd actually want to exist.
 
-Two things I've shipped recently: an AI job search advisor that reads JDs and learns your preferences over time, and a LinkedIn content planner that tracks what performs and drafts the next post from patterns — not vibes. Both live at [roleradar.xyz](https://roleradar.xyz).
+Two things I've shipped recently: an AI job search advisor that reads JDs and learns your preferences over time, and a LinkedIn content planner that tracks what performs and drafts the next post from patterns - not vibes. Both live at [roleradar.xyz](https://roleradar.xyz).
 
 ---
 
 ## What I think about
 
-When a system makes autonomous decisions, the PM's job changes. You're no longer designing the UI — you're designing the decision boundary. When does the agent act vs. defer? What's the fallback when it's wrong? How does trust accumulate over time?
+When a system makes autonomous decisions, the PM's job changes. You're no longer designing the UI - you're designing the decision boundary. When does the agent act vs. defer? What's the fallback when it's wrong? How does trust accumulate over time?
 
 That's the problem I find interesting.
 
@@ -18,13 +18,14 @@ That's the problem I find interesting.
 
 **RoleRadar** — Job Discovery Product. Aggregates 600K+ listings from 9K+ companies. | [roleradar.xyz](https://roleradar.xyz) | [case study](https://mrawal.com/projects/roleradar)
 
-Foundation: [Job Market Intelligence](https://github.com/manishrawal95/job-market-intelligence) (scraper + dedup pipeline)
-
 **Full-stack / Open source**
 
-[Linkedin Planner](https://github.com/manishrawal95/linkedin_planner): (content analysis + drafting)
+[Linkedin Planner](https://github.com/manishrawal95/linkedin_planner): AI-powered LinkedIn content planning - post analysis, pattern learning, draft generation, and publishing calendar. [Live](https://linkedin-planner.vercel.app/linkedin)
 
 [Calendar Booking System](https://github.com/manishrawal95/calendar-booking-system): Google Calendar integration, email confirmations + reminders, timezone-aware slot generation, 62 tests. [Live](https://mrawal.com/book)
+
+[Product Development Agentic Crew](https://github.com/manishrawal95/agentic-crew): 13 specialized AI agents for Claude Code - adversarial design review, automated security hooks, and multi-agent orchestration across every project. Also, includes hooks, rules and skills.
+
 
 **Data analysis**
 
@@ -37,8 +38,8 @@ Foundation: [Job Market Intelligence](https://github.com/manishrawal95/job-marke
 | [Netflix](https://github.com/manishrawal95/Netflix-Analysis) | Catalog gaps by genre and region |
 | [USA Crime Data](https://github.com/manishrawal95/USA-Crime-Data) | Income vs. crime rate after controlling for density |
 
-**ML fundamentals**
 
-[ml-algorithms-r](https://github.com/manishrawal95/ml-algorithms-r) — linear regression through k-means in R. Babson coursework.
+
+**Building what's next in AI Agents, RAG, or LLMs? I'd love to chat and share input.**
 
 ---
