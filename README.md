@@ -1,34 +1,33 @@
 ### Hi, I'm Manish Rawal 👋
 
-I'm a Program Manager with a background in Business Operations, currently focused on building and scaling agentic AI systems. I bridge the gap between business strategy and AI engineering by building production-grade tools that demonstrate the real-world operational impact of AI agents. My goal is to move beyond slide decks and ship open-source solutions that solve tangible business problems.
+I'm a Program Manager with a background in Business Operations, now focused on building agentic AI systems. I bridge the gap between business strategy and AI engineering by shipping production-grade open source tools. My work isn't about slide decks--it's about building real solutions that prove how AI agents can solve concrete operational problems.
+
+As a builder targeting Technical Program Manager (TPM) roles, my approach is grounded in:
+
+*   **System-Level Thinking:** I design and build for the entire lifecycle, considering cost, reliability, and business impact from day one. I see projects not as isolated features, but as components of a larger business system.
+*   **From POC to Production:** I believe the most valuable insights come from shipping. I build robust tools that move beyond demos to solve real-world challenges, demonstrating tangible ROI.
+*   **Bridging Strategy and Execution:** My BizOps background enables me to translate high-level strategy into concrete technical requirements and roadmaps, ensuring engineering effort is always aligned with business goals.
 
 ---
 
-### My Approach to Technical Program Management
+### Featured Initiative: Building Production-Ready AI Agent Infrastructure
 
-As a TPM, I focus on the system, not just the software. My approach is grounded in a few core principles:
+For AI agents to be trusted in business-critical roles, they require a new class of tooling for observability and risk management. My projects are focused on building this foundational layer, ensuring that agentic systems are cost-effective, reliable, and safe to deploy at scale.
 
-*   **Business-First, Tech-Forward:** I start with the core business problem--driving revenue, reducing operational costs, or mitigating risk. I then architect technical solutions, like AI agents, that directly serve those goals.
-*   **From Decks to Demos:** The fastest way to align cross-functional teams and prove value is to build. I create working prototypes and robust tools to make abstract AI concepts tangible and to accelerate the path to production.
-*   **Systems, Not Silos:** True business transformation requires integrating AI into existing operational workflows. I design systems that consider the entire lifecycle, from data pipelines and agent orchestration to financial governance and performance monitoring.
-
----
-
-### Featured Initiative: AI Operational Excellence
-
-As companies scale their use of AI agents, managing unpredictable API costs becomes a critical business function. Without clear visibility, innovation is stifled by financial risk. The tools below are designed to provide the operational and financial governance needed to deploy AI agents confidently and at scale.
-
-| Project | Description | Business Impact | Tech Stack |
-| :--- | :--- | :--- | :--- |
-| **[agent-cost-tracker](https://github.com/manishrawal95/agent-cost-tracker)** <br/> ![Stars](https://img.shields.io/github/stars/manishrawal95/agent-cost-tracker?style=flat-square) | A visualization and analysis tool for AI agent API costs. It's built to consume data from foundational observability frameworks (like OpenLLMetry, an ecosystem I actively contribute to), turning raw usage metrics into actionable financial insights. | Enables data-driven budget management, model selection, and ROI analysis for AI initiatives, directly connecting technical activity to financial oversight. | `python`, `ai`, `cost-tracking`, `llm`, `agents` |
+| Project | Description |
+|---|---|
+| 🔗 **[agent-cost-tracker](https://github.com/manishrawal95/agent-cost-tracker)** | A dashboard to visualize, analyze, and control the API costs of AI agentic systems. Essential for financial governance and preventing runaway LLM spend. |
+| 🔗 **[llm-sycophancy-eval](https://github.com/manishrawal95/llm-sycophancy-eval)** | A framework to stress-test LLMs and agents for sycophantic behavior--the tendency to agree with users, even when incorrect. Critical for mitigating AI risk. |
 
 ---
 
-### Core Expertise
+### Core Contributions to the AI Ecosystem
 
-*   **AI Strategy:** Agentic Systems & AI Automation, AI Product Strategy
-*   **Execution:** Technical Program Management, System Design & Architecture
-*   **Leadership:** BizOps + AI Integration, Open Source Leadership
+I believe in building on--and contributing back to--the foundational tools that power the AI community. My contributions focus on improving the core infrastructure that my own projects rely on, demonstrating a full-stack understanding of the systems I build.
+
+*   **[traceloop/openllmetry](https://github.com/traceloop/openllmetry)**
+    *   **Contribution:** Added token usage metrics for new Cohere embedding models. ([`#3873`](https://github.com/traceloop/openllmetry/pull/3873))
+    *   **Strategic Impact:** This work is directly **upstream** of my `agent-cost-tracker` project. By improving the core instrumentation in OpenLLMetry, I enhance the foundational observability layer that the entire ecosystem relies on. It shows my commitment to the data pipeline from end-to-end, from instrumentation to analysis.
 
 ---
 
