@@ -1,33 +1,35 @@
 ### Hi, I'm Manish Rawal 👋
 
-I'm a Program Manager with a background in Business Operations, now focused on building agentic AI systems. I bridge the gap between business strategy and AI engineering by shipping production-grade open source tools. My work isn't about slide decks--it's about building real solutions that prove how AI agents can solve concrete operational problems.
+I'm a Program Manager with a background in Business Operations, now focused on building the practical infrastructure for agentic AI. I bridge the gap between business strategy and AI engineering by shipping open-source tools that solve real operational problems. My goal is to move AI from proof-of-concept to production--reliably, efficiently, and safely.
 
-As a builder targeting Technical Program Manager (TPM) roles, my approach is grounded in:
+As a Technical Program Manager, I believe in a hands-on, systems-level approach to program leadership.
 
-*   **System-Level Thinking:** I design and build for the entire lifecycle, considering cost, reliability, and business impact from day one. I see projects not as isolated features, but as components of a larger business system.
-*   **From POC to Production:** I believe the most valuable insights come from shipping. I build robust tools that move beyond demos to solve real-world challenges, demonstrating tangible ROI.
-*   **Bridging Strategy and Execution:** My BizOps background enables me to translate high-level strategy into concrete technical requirements and roadmaps, ensuring engineering effort is always aligned with business goals.
-
----
-
-### Featured Initiative: Building Production-Ready AI Agent Infrastructure
-
-For AI agents to be trusted in business-critical roles, they require a new class of tooling for observability and risk management. My projects are focused on building this foundational layer, ensuring that agentic systems are cost-effective, reliable, and safe to deploy at scale.
-
-| Project | Description |
-|---|---|
-| 🔗 **[agent-cost-tracker](https://github.com/manishrawal95/agent-cost-tracker)** | A dashboard to visualize, analyze, and control the API costs of AI agentic systems. Essential for financial governance and preventing runaway LLM spend. |
-| 🔗 **[llm-sycophancy-eval](https://github.com/manishrawal95/llm-sycophancy-eval)** | A framework to stress-test LLMs and agents for sycophantic behavior--the tendency to agree with users, even when incorrect. Critical for mitigating AI risk. |
+*   **From Strategy to Shipped Code:** I don't just write documents about what's possible. I build functional tools to prove business value, de-risk technical paths, and create alignment across engineering, product, and operations.
+*   **Business-First System Design:** My projects start with a core business challenge--like managing runaway costs, ensuring model reliability, or improving developer velocity. The technology and architecture serve that goal, not the other way around.
+*   **Pragmatic Execution:** I focus on building the essential, unglamorous infrastructure that makes AI systems work in the real world. This means focusing on observability, cost management, and evaluation frameworks.
 
 ---
 
-### Core Contributions to the AI Ecosystem
+### Building the Operational Layer for AI Agents
 
-I believe in building on--and contributing back to--the foundational tools that power the AI community. My contributions focus on improving the core infrastructure that my own projects rely on, demonstrating a full-stack understanding of the systems I build.
+AI agents are powerful, but they require a new layer of operational tooling to be deployed safely and cost-effectively in production. My projects focus on building this critical infrastructure, turning promising demos into dependable business systems.
 
-*   **[traceloop/openllmetry](https://github.com/traceloop/openllmetry)**
-    *   **Contribution:** Added token usage metrics for new Cohere embedding models. ([`#3873`](https://github.com/traceloop/openllmetry/pull/3873))
-    *   **Strategic Impact:** This work is directly **upstream** of my `agent-cost-tracker` project. By improving the core instrumentation in OpenLLMetry, I enhance the foundational observability layer that the entire ecosystem relies on. It shows my commitment to the data pipeline from end-to-end, from instrumentation to analysis.
+| Project | Description | Key Focus |
+|---|---|---|
+| **[agent-profiler](https://github.com/manishrawal95/agent-profiler)** [![Stars](https://img.shields.io/github/stars/manishrawal95/agent-profiler?style=flat-square)](https://github.com/manishrawal95/agent-profiler) | Profile any AI agent with a single command to understand performance bottlenecks. | `Observability`, `Developer Tools`, `Performance` |
+| **[agent-cost-tracker](https://github.com/manishrawal95/agent-cost-tracker)** [![Stars](https://img.shields.io/github/stars/manishrawal95/agent-cost-tracker?style=flat-square)](https://github.com/manishrawal95/agent-cost-tracker) | Visualize and analyze AI agent API costs to prevent budget overruns. | `Cost Management`, `FinOps`, `Analytics` |
+| **[llm-sycophancy-eval](https://github.com/manishrawal95/llm-sycophancy-eval)** [![Stars](https://img.shields.io/github/stars/manishrawal95/llm-sycophancy-eval?style=flat-square)](https://github.com/manishrawal95/llm-sycophancy-eval) | A framework to stress-test agents for sycophantic (overly agreeable) behavior. | `AI Safety`, `LLM Evaluation`, `Risk Mitigation` |
+
+---
+
+### Core Competencies
+
+*   **Agentic Systems & AI Automation:** Designing and implementing multi-agent systems to automate complex business workflows.
+*   **BizOps + AI Integration:** Identifying high-impact operational problems and solving them with targeted AI solutions.
+*   **Technical Program Management:** Leading cross-functional teams to deliver complex technical projects from concept to launch.
+*   **AI Product Strategy:** Defining the vision, roadmap, and requirements for AI-powered tools and platforms.
+*   **System Design & Architecture:** Architecting scalable, reliable, and cost-effective systems for AI applications.
+*   **Open Source Leadership:** Building and contributing to open source communities to solve shared industry challenges.
 
 ---
 
