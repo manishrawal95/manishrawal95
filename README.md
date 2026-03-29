@@ -1,35 +1,22 @@
 ### Hi, I'm Manish Rawal 👋
 
-I'm a Program Manager with a background in Business Operations, now focused on building the practical infrastructure for agentic AI. I bridge the gap between business strategy and AI engineering by shipping open-source tools that solve real operational problems. My goal is to move AI from proof-of-concept to production--reliably, efficiently, and safely.
-
-As a Technical Program Manager, I believe in a hands-on, systems-level approach to program leadership.
-
-*   **From Strategy to Shipped Code:** I don't just write documents about what's possible. I build functional tools to prove business value, de-risk technical paths, and create alignment across engineering, product, and operations.
-*   **Business-First System Design:** My projects start with a core business challenge--like managing runaway costs, ensuring model reliability, or improving developer velocity. The technology and architecture serve that goal, not the other way around.
-*   **Pragmatic Execution:** I focus on building the essential, unglamorous infrastructure that makes AI systems work in the real world. This means focusing on observability, cost management, and evaluation frameworks.
+I'm a Program Manager with a background in Business Operations, currently focused on building and scaling agentic AI systems. I bridge the gap between business strategy and AI engineering by building production-grade tools that prove what's possible, not just presenting decks about it. My work is about demonstrating how AI agents can solve tangible operational problems and drive measurable business impact.
 
 ---
 
-### Building the Operational Layer for AI Agents
+### My Approach to Technical Program Management
 
-AI agents are powerful, but they require a new layer of operational tooling to be deployed safely and cost-effectively in production. My projects focus on building this critical infrastructure, turning promising demos into dependable business systems.
+My background in BizOps taught me to be obsessed with outcomes, not just output. I apply that same mindset to building AI systems.
 
-| Project | Description | Key Focus |
-|---|---|---|
-| **[agent-profiler](https://github.com/manishrawal95/agent-profiler)** [![Stars](https://img.shields.io/github/stars/manishrawal95/agent-profiler?style=flat-square)](https://github.com/manishrawal95/agent-profiler) | Profile any AI agent with a single command to understand performance bottlenecks. | `Observability`, `Developer Tools`, `Performance` |
-| **[agent-cost-tracker](https://github.com/manishrawal95/agent-cost-tracker)** [![Stars](https://img.shields.io/github/stars/manishrawal95/agent-cost-tracker?style=flat-square)](https://github.com/manishrawal95/agent-cost-tracker) | Visualize and analyze AI agent API costs to prevent budget overruns. | `Cost Management`, `FinOps`, `Analytics` |
-| **[llm-sycophancy-eval](https://github.com/manishrawal95/llm-sycophancy-eval)** [![Stars](https://img.shields.io/github/stars/manishrawal95/llm-sycophancy-eval?style=flat-square)](https://github.com/manishrawal95/llm-sycophancy-eval) | A framework to stress-test agents for sycophantic (overly agreeable) behavior. | `AI Safety`, `LLM Evaluation`, `Risk Mitigation` |
-
----
+*   **From Problem to Production:** I excel at navigating the entire lifecycle--from identifying a high-value business problem to defining system architecture, managing cross-functional execution, and shipping a production-ready solution.
+*   **Systems Thinking, Not Silos:** I don't just build features, I build systems. My projects are designed as interconnected components that solve a larger strategic challenge, whether it's agent observability, operational automation, or AI safety.
+*   **Build to De-risk:** I build proofs-of-concept and open source tools to validate assumptions, de-risk technical approaches, and create tangible artifacts that align engineering, product, and business stakeholders. This hands-on approach accelerates the path from idea to impact.
 
 ### Core Competencies
 
-*   **Agentic Systems & AI Automation:** Designing and implementing multi-agent systems to automate complex business workflows.
-*   **BizOps + AI Integration:** Identifying high-impact operational problems and solving them with targeted AI solutions.
-*   **Technical Program Management:** Leading cross-functional teams to deliver complex technical projects from concept to launch.
-*   **AI Product Strategy:** Defining the vision, roadmap, and requirements for AI-powered tools and platforms.
-*   **System Design & Architecture:** Architecting scalable, reliable, and cost-effective systems for AI applications.
-*   **Open Source Leadership:** Building and contributing to open source communities to solve shared industry challenges.
+*   **AI/ML:** Agentic Systems & AI Automation, AI Product Strategy, LLM Evaluation
+*   **Program Management:** Technical Program Management, BizOps + AI Integration, Cross-Functional Leadership
+*   **Technical:** System Design & Architecture, Open Source Leadership, Developer Tooling
 
 ---
 
