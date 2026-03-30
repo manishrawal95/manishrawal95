@@ -1,53 +1,49 @@
 ### Hi, I'm Manish Rawal 👋
 
-I'm a Program Manager with a background in Business Operations, obsessed with the practical application of agentic AI. I bridge the gap between business strategy and AI engineering by building production-grade tools that prove what's possible. My work isn't about slide decks--it's about shipping open-source software that solves real operational problems and demonstrates the tangible business impact of AI agents.
+I'm a Program Manager from a Business Operations background, now building the infrastructure for agentic AI. I bridge the gap between business strategy and AI engineering by shipping open-source tools that solve real operational problems. My work isn't about slide decks -- it's about building production-grade systems that prove what's possible with AI agents.
+
+**Core Expertise:** Agentic Systems & AI Automation, BizOps + AI Integration, Technical Program Management, AI Product Strategy, Open Source Leadership, System Design & Architecture.
 
 ---
 
 ### My Approach to Building with AI
 
-As a leader targeting Technical Program Manager roles, my philosophy is grounded in turning ambitious AI concepts into reliable, scalable systems.
+As a TPM, my philosophy is grounded in turning ambitious AI strategy into operational reality.
 
-*   **From BizOps to Code:** My background in business operations means I start with the business problem, not the technology. I build AI tools to solve concrete operational bottlenecks I've experienced firsthand, ensuring technology serves a clear strategic purpose.
-*   **Systems, Not Just Features:** I believe in building resilient systems, not just one-off features. This means focusing on observability, cost management, and safety from day one--the foundational elements required to scale AI responsibly and predictably.
-*   **Shipping is Strategy:** The most effective way to validate an AI strategy is to ship a working prototype. My open-source work is a testament to this philosophy, turning abstract concepts into tangible tools that engineering and business teams can rally around to accelerate progress.
-
----
-
-### Featured Open Source Projects
-
-My projects are experiments in building the necessary infrastructure and tooling to make AI agents reliable, observable, and ready for business-critical applications.
-
-#### 🛠️ AI Agent Observability & Infrastructure
-Building reliable AI agents requires deep insight into their behavior. This suite of tools provides critical infrastructure for debugging, profiling, and inspecting agent activity, enabling teams to move from prototype to production with confidence.
-
-| Project | Description | Key Technologies |
-| :--- | :--- | :--- |
-| **[agent-profiler](https://github.com/manishrawal95/agent-profiler)** <br> ![Stars](https://img.shields.io/github/stars/manishrawal95/agent-profiler?style=flat-square) | Profile any AI agent with one command. | `ai`, `developer-tools`, `profiler`, `llm`, `observability` |
-| **[retrace](https://github.com/manishrawal95/retrace)** <br> ![Stars](https://img.shields.io/github/stars/manishrawal95/retrace?style=flat-square) | Interactive TUI debugger for AI agents -- watch thoughts, tool calls, and observations. | `ai-agents`, `debugger`, `developer-tools`, `observability`, `tui` |
-| **[mcp-inspector](https://github.com/manishrawal95/mcp-inspector)** <br> ![Stars](https://img.shields.io/github/stars/manishrawal95/mcp-inspector?style=flat-square) | Local proxy for inspecting Model Context Protocol (MCP) traffic between AI agents. | `ai-agents`, `developer-tools`, `mcp`, `observability`, `proxy` |
-
-
-#### 📈 Operationalizing AI: Cost, Safety, and Workflow
-For AI to create business value, it must be cost-effective, safe, and integrated into existing workflows. These projects tackle the core operational challenges of deploying LLMs at scale.
-
-| Project | Description | Key Technologies |
-| :--- | :--- | :--- |
-| **[agent-cost-tracker](https://github.com/manishrawal95/agent-cost-tracker)** <br> ![Stars](https://img.shields.io/github/stars/manishrawal95/agent-cost-tracker?style=flat-square) | Visualize and analyze AI agent API costs. | `ai`, `cost-tracking`, `llm`, `agents` |
-| **[llm-sycophancy-eval](https://github.com/manishrawal95/llm-sycophancy-eval)** <br> ![Stars](https://img.shields.io/github/stars/manishrawal95/llm-sycophancy-eval?style=flat-square) | Stress-test AI agents for sycophantic (agreeable) behavior. | `llm`, `ai-safety`, `llm-evaluation`, `ai-risk` |
-| **[voice-to-task-agent](https://github.com/manishrawal95/voice-to-task-agent)** <br> ![Stars](https://img.shields.io/github/stars/manishrawal95/voice-to-task-agent?style=flat-square) | Voice commands to operational tasks, in real-time. | `ai-agents`, `voice-ai`, `bizops`, `automation`, `jira` |
-
+*   **From Business Problem to Production Code:** I start with the "why"--a core business need or operational bottleneck. My BizOps background ensures I'm focused on impact, but I don't stop at the strategy. I build and ship functional prototypes and tools to validate assumptions, de-risk technology, and create a clear path to production.
+*   **Systems, Not Just Models:** An LLM is a component, not a solution. I focus on the entire system--the architecture for reliability, the observability for debugging, the evaluation frameworks for safety, and the cost models for scalability. I design and manage programs that deliver robust, end-to-end agentic systems.
+*   **Pragmatic Innovation:** I believe in practical, hands-on leadership. I work cross-functionally with engineering, product, and operations to build a shared understanding of what's possible. By building the first versions of critical tools, I accelerate the development cycle and prove the value of AI initiatives, ensuring technical efforts are always aligned with strategic business outcomes.
 
 ---
 
-### Core Expertise
+### Featured Initiatives & Open Source Projects
 
-*   **Agentic Systems & AI Automation**
-*   **BizOps + AI Integration**
-*   **Technical Program Management**
-*   **AI Product Strategy**
-*   **Open Source Leadership**
-*   **System Design & Architecture**
+My projects are not random experiments. They are part of a focused effort to build the foundational layers for deploying and managing AI agents effectively.
+
+#### 🏗️ AI Agent Observability & Tooling
+Production-grade AI agents require production-grade infrastructure. I build open-source tools to provide the critical observability, debugging, and profiling needed to run agentic systems reliably and at scale. These projects are the foundation for managing any serious AI agent deployment.
+
+| Project                                                   | Description                                                                     | Tags                                     |
+| --------------------------------------------------------- | ------------------------------------------------------------------------------- | ---------------------------------------- |
+| **[agent-profiler](https://github.com/manishrawal95/agent-profiler)** | Profile the performance and behavior of any AI agent with a single command.     | `developer-tools`, `profiler`, `llm`, `observability` |
+| **[retrace](https://github.com/manishrawal95/retrace)**         | Interactive TUI debugger for AI agents -- watch thoughts, tool calls, and state. | `debugger`, `tui`, `observability`, `langchain` |
+| **[mcp-inspector](https://github.com/manishrawal95/mcp-inspector)** | Inspect Model Context Protocol (MCP) traffic between AI agents with a local proxy. | `developer-tools`, `mcp`, `observability`, `proxy` |
+
+#### 📈 Operationalizing AI & Proving Business Value
+AI is a business tool, not just a technology. These projects are practical demonstrations of how agentic AI can solve real-world operational problems. From automating tasks directly from voice to providing clear visibility into API costs, my focus is on delivering measurable business impact and ROI.
+
+| Project                                                           | Description                                                 | Tags                                                 |
+| ----------------------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------------- |
+| **[agent-cost-tracker](https://github.com/manishrawal95/agent-cost-tracker)** | Visualize and analyze the API costs of AI agent usage.      | `cost-tracking`, `llm`, `agents`, `bizops`             |
+| **[voice-to-task-agent](https://github.com/manishrawal95/voice-to-task-agent)** | Turn voice commands into operational tasks (e.g., Jira tickets) in real-time. | `voice-ai`, `automation`, `bizops`, `jira` |
+
+#### 🚀 Exploring the Frontiers of Autonomous Systems
+To lead in AI, we must understand both its ultimate potential and its inherent risks. These projects explore the cutting edge of autonomous agents--from self-improving code generation to evaluating critical failure modes like sycophancy. This work informs a long-term, strategic view on AI adoption and safety.
+
+| Project                                                             | Description                                                              | Tags                                                         |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------ |
+| **[amor](https://github.com/manishrawal95/amor)**                       | An autonomous product builder agent that ships features while you sleep. | `autonomous-agent`, `automation`, `product-builder`            |
+| **[llm-sycophancy-eval](https://github.com/manishrawal95/llm-sycophancy-eval)** | A framework to stress-test AI agents for sycophantic (agreeable) behavior. | `ai-safety`, `llm-evaluation`, `ai-risk`, `developer-tools` |
 
 ---
 
