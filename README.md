@@ -8,23 +8,25 @@ Program Manager at Mount Sinai Health System, moving into AI product management.
 
 The code for these is private. Each link opens the live product.
 
-**[RoleRadar](https://roleradar.xyz)** · job discovery
-
-RoleRadar surfaces roles from company career pages before they reach the big job boards. It reads Greenhouse, Lever, Ashby, Workday and SmartRecruiters boards, plus Amazon, Apple, Google and Microsoft, and puts the postings in one search. 5,000+ users.
-
-![RoleRadar home page](assets/roleradar.png)
-
-**[Workbench](https://workbench.mrawal.com)** · a career OS
-
-One app for my job pipeline, LinkedIn drafting and PM practice. It holds contacts and job-search data, so it stays private behind Cloudflare Access. Each fetch, AI read and rollup has one owner, and pages read stored results, so nothing is computed twice. The screenshot is the public landing page; the app itself is private.
-
-![Workbench landing page](assets/workbench.png)
-
-**[Northbridge Medical](https://northbridge-medical.vercel.app)** · healthcare prototype
-
-A fictional health system I designed and built for a product management interview. A patient describes symptoms and is routed to the right specialist in about 60 seconds. Not a real hospital; sign-in is simulated.
-
-![Northbridge Medical home page](assets/northbridge.png)
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="https://roleradar.xyz"><img src="assets/roleradar.png" alt="RoleRadar home page"></a>
+<p><a href="https://roleradar.xyz"><b>RoleRadar</b></a> · job discovery</p>
+<p>Surfaces roles from company career pages before they reach the big job boards. It reads Greenhouse, Lever, Ashby, Workday and SmartRecruiters boards, plus Amazon, Apple, Google and Microsoft, and puts the postings in one search. 5,000+ users.</p>
+</td>
+<td width="33%" valign="top">
+<a href="https://workbench.mrawal.com"><img src="assets/workbench.png" alt="Workbench landing page"></a>
+<p><a href="https://workbench.mrawal.com"><b>Workbench</b></a> · a career OS</p>
+<p>One app for my job pipeline, LinkedIn drafting and PM practice. It holds contacts and job-search data, so it stays private behind Cloudflare Access; the screenshot is the public landing page. Each fetch, AI read and rollup has one owner, so nothing is computed twice.</p>
+</td>
+<td width="33%" valign="top">
+<a href="https://northbridge-medical.vercel.app"><img src="assets/northbridge.png" alt="Northbridge Medical home page"></a>
+<p><a href="https://northbridge-medical.vercel.app"><b>Northbridge Medical</b></a> · healthcare prototype</p>
+<p>A fictional health system I designed and built for a product management interview. A patient describes symptoms and is routed to the right specialist in about 60 seconds. Not a real hospital; sign-in is simulated.</p>
+</td>
+</tr>
+</table>
 
 ### Open source
 
