@@ -33,6 +33,7 @@ The code for these is private. Each link opens the live product.
 | Repo | What it does | The call I made |
 |---|---|---|
 | [sync-agent-docs](https://github.com/manishrawal95/sync-agent-docs) | Finds conflicting, stale and duplicated infra facts across repos and coding-agent files | Local only, no AI and no network by default; every fix lands on its own branch, never pushed, with rollback |
+| [check-agent-docs](https://github.com/manishrawal95/check-agent-docs) | Checks that a repo's CLAUDE.md and AGENTS.md still match its code: moved paths, renamed scripts, wrong package manager | Pass bars written before each test on unseen public repos; failures published, including an AI review that missed its precision bar |
 | [openslot](https://github.com/manishrawal95/openslot) | Self-hosted booking page with Google Calendar, Meet links and reminders | Built it instead of paying for a scheduling subscription; guests reschedule from a signed link with no account |
 
 ### How I build
