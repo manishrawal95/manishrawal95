@@ -2,7 +2,7 @@
 
 Program Manager at Mount Sinai Health System, moving into AI product management. I take product ideas from first sketch to live users with Claude Code, and I run what I ship.
 
-[mrawal.com](https://mrawal.com) · [LinkedIn](https://www.linkedin.com/in/rawalmanish) · [Book a 15-min chat](https://mrawal.com/book)
+[mrawal.com](https://mrawal.com) · [LinkedIn](https://www.linkedin.com/in/rawalmanish) · [Book a 15-min chat](https://mrawal.com/?utm_source=github&utm_medium=profile&utm_campaign=cta)
 
 ### Products I built and run
 
@@ -12,7 +12,7 @@ The code for these is private. Each link opens the live product.
 
 RoleRadar surfaces roles from company career pages before they reach the big job boards. It reads Greenhouse, Lever, Ashby, Workday and SmartRecruiters boards, plus Amazon, Apple, Google and Microsoft, and puts the postings in one search. 5,000+ users.
 
-**[Workbench](https://workbench.mrawal.com)** · a career run like a product
+**[Workbench](https://workbench.mrawal.com)** · a career OS
 
 One app for my job pipeline, LinkedIn drafting and PM practice. It holds contacts and job-search data, so it stays private behind Cloudflare Access. Each fetch, AI read and rollup has one owner, and pages read stored results, so nothing is computed twice.
 
